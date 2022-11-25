@@ -4256,14 +4256,6 @@
     "url": "http://faraway.u-paris10.fr/login?url=$@"
   },
   {
-    "name": "Universite Paris 1 Pantheon-Sorbonne",
-    "url": "http://ezproxy.univ-paris1.fr/login?url=$@"
-  },
-  {
-    "name": "Universite Paris Diderot",
-    "url": "http://rproxy.sc.univ-paris-diderot.fr:80/login?url=$@"
-  },
-  {
     "name": "Universite Rennes 2",
     "url": "http://distant.bu.univ-rennes2.fr/login?url=$@"
   },
