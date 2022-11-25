@@ -1725,7 +1725,7 @@
   },
   {
     "name": "INSERM",
-    "url": "http://gate2.inist.fr/login?url=$@"
+    "url": "http://proxy.insermbiblio.inist.fr/login?url=$@"
   },
   {
     "name": "IT University of Copenhagen",
